@@ -1,0 +1,68 @@
+isEmpty
+size
+height
+put 5 A
+height
+size
+put 0 B
+height
+size
+put 2 C
+height
+size
+put 1 D
+height
+size
+put 7 E
+height
+size
+put 8 F
+height
+size
+put 3 G
+height
+size
+get 0
+get 1
+get 2
+get 3
+get 4
+get 5
+get 6
+get 7
+get 8
+get 9
+put 2 H
+get 2
+contains 0
+contains 1
+contains 2
+contains 3
+contains 4
+contains 5
+contains 6
+contains 7
+contains 8
+contains 9
+size 0
+size 1
+size 2
+size 3
+size 4
+size 5
+size 6
+size 7
+size 8
+size 9
+height 0
+height 1
+height 2
+height 3
+height 4
+height 5
+height 6
+height 7
+height 8
+height 9
+isEmpty
+

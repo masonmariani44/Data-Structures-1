@@ -1,0 +1,59 @@
+height 888
+size
+height 888
+size 888
+contains 888
+height 888
+put 571 Agatha Forester
+put 688 Savannah Mainer
+height 888
+size 688
+size
+contains 571
+contains 888
+height
+put 439 Elmer Huckabee
+contains 688
+put 779 Delphine Cassatt
+size
+size 439
+put 584 Lloyd George
+put 899 Linnie Kohli
+isEmpty
+put 768 Maud Kant
+contains 899
+size 688
+put 0 Bertha Harris
+size
+put 719 Zelma Hurst
+put 454 Carra Savedra
+height
+isEmpty
+put 994 Ada Farmer
+put 498 Oliver Pratt
+put 918 Jeff Evans
+height
+get 498
+isEmpty
+put 648 Libbie Hank
+size 0
+height
+put 952 Anner Thorpe
+put 755 Lou Moore
+put 463 Blanche Jones
+put 21 Annette Theodore
+put 947 Melvin Herman
+isEmpty
+put 115 Flossie Johnson
+put 905 Marion Lovely
+put 860 Nancy Norman
+put 323 Allan Dallas
+get 115
+put 115 Edith Wharton
+get 115
+contains 115
+size 115
+size 918
+height 115
+height 918
+contains 918

@@ -1,0 +1,108 @@
+put 143 Amelia Earhart
+isEmpty
+put 986 Ruby Sampson
+height
+height 113
+size
+isEmpty
+size 113
+isEmpty
+height 143
+put 934 Fay Winifred
+isEmpty
+put 751 Carolina Parks
+contains 986
+put 705 Lacy Kazantzakis
+put 432 Evaline Coetzee
+size
+put 951 Frieda Eels
+height 951
+contains 751
+size 705
+put 136 Salome Cameron
+height
+put 465 Dennis Menace
+isEmpty
+put 597 Leana Picasso
+put 159 Calla Remarque
+get 751
+isEmpty
+height 159
+isEmpty
+put 405 Lyda Swope
+contains 465
+put 222 Josie Pye
+get 934
+isEmpty
+put 624 Mallie Giscard
+size 432
+size
+size
+put 756 Junie Dvorak
+contains 222
+isEmpty
+put 627 Sabra Korsakov
+put 106 Sophie Hanson
+put 389 Margie Jar
+put 955 Emily Lincoln
+height 113
+put 196 Lucina Prokofiev
+isEmpty
+put 456 Ednah Hamdi
+put 457 Harvey Oswald
+isEmpty
+put 165 Joe la Plante
+get 113
+put 200 Lillie Giggs
+get 113
+height
+put 437 Frances Nunn
+put 137 Luna King
+size 405
+put 9 Lonnie Howard
+height
+contains 405
+put 22 Corrie Klinger
+size
+put 984 Rufus Summer
+height 405
+put 421 Dixie Morrison
+size
+height
+contains 597
+put 779 Sammie O'Keefe
+put 79 Aurora Bernard
+isEmpty
+get 143
+height
+put 875 Victoria Demings
+put 241 Rena Masterson
+size
+put 564 Cynthia Jordan
+put 325 Adela Brooks
+put 737 Lona Lamp
+size
+size 955
+put 660 Mahalia Bernstein
+put 637 Elvira Madson
+put 237 Dillie Stendhal
+height
+put 569 Carol Cervantes9
+contains 951
+get 984
+isEmpty
+contains 457
+put 515 Clarence Calvino
+put 894 Julia Yoon
+put 619 Theodore Dorris
+put 114 Tempie Dancer
+put 498 Mandy Nickelson
+isEmpty
+get 515
+get 894
+put 894 John Winter
+get 894
+height 564
+size 241
+height
+size

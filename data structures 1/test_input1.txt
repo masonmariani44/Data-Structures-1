@@ -1,0 +1,35 @@
+put 379 Mima Kahlo
+get 815
+put 309 Zoe Worth
+put 266 Cathrine Roosevelt
+isEmpty
+put 628 Richard More
+put 413 Leslie Oats
+put 38 Patsy Morgan
+put 179 Zena Mahfouz
+isEmpty
+put 894 Pearl Buck
+height
+put 830 Orilla Martin
+put 56 Gilbert Sullivan
+put 892 Frankie Hanson
+put 645 Vinnie Art
+height
+size
+isEmpty
+put 713 Mona Fritt
+size
+put 179 Timothy Ormundson
+put 802 Charity Truman
+put 685 Bettie D'Angelo
+put 228 Muriel Hikmet
+put 304 Dessa Wilson
+put 184 Connie Hoover
+put 178 Arthur Arnold
+get 179
+get 802
+get 685
+get 228
+get 304
+get 184
+get 178
